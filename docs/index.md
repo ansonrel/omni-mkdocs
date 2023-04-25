@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+## Welcome to Omnibenchmark documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Omnibenchmark** is a benchmark project that aims to provide
+**community-driven**, **modular**, **extensible** and **always
+up-to-date** benchmarks.
 
-## Commands
+It is based on the [Renku project](https://renkulab.io/), an open and
+collaborative data analysis platform.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The framework connects **data**, **methods** and **metrics**
+repositories (a.k.a. *modules*), that can be flexibly extended by any
+community member.
 
-## Project layout
+If you are interested in contributing a new **method**, **dataset** or
+**metric**, follow the documentation from the
+`Getting started` section, where you can
+learn more about how omnibenchmark works and how to extend it with a new
+module.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+If you are interested in exploring one of the existing benchmarks and
+the latest results, you can directly jump to the results of our
+evaluations in the `Output` section.
+
+![image](/images/omnibench_overview.png)

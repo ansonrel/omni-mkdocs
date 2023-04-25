@@ -1,0 +1,5 @@
+
+# Components dashboard. 
+
+Some text. 
+

@@ -1,6 +1,6 @@
 site_name: Omnibenchmark
 site_url: https://example.com/
 nav:
-    - Home: index.md
+    - Motivation: 01_landing.md
     - About: about.md
 theme: readthedocs
